@@ -15,6 +15,6 @@ Al abrir el archivo en colab, en la sección "Paths", debe escribir el path de l
 ```
 dfs_path = '/content/drive/My Drive/Proyecto/Datos'
 ```
-Teniendo esto listo, el archivo debería poder ejecutar el archivo .ipynb sin problemas.
+Teniendo esto listo, implemente el uso de GPU en su terminal de Google Colab. Ahora el archivo debería poder ejecutar el archivo .ipynb sin problemas.
 
 El archivo "data_description.txt" no es necesario para la ejecución del código, pero muestra una descripción del dataset utilizado.
