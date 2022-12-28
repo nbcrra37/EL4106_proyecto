@@ -7,14 +7,10 @@ Espinoza, Ricardo
 Cona, Francisca (colaboradora)
 
 ## Instrucciones:
-Este proyecto está formulado exclusivamente para ser reproducido en Google Colab.
+Este proyecto está formulado exclusivamente para ser reproducido en un ordenador (no necesariamente Google Colab)
 
-Primero, los archivos que se encuentran en este enlace de Google Drive "https://drive.google.com/drive/folders/1lNijLND6yPJwcRIqcrUCNut0JWKCvlXw?usp=share_link" deben ser almacenados en alguna carpeta Google Drive de su preferencia (recuerde el path de esta carpeta). Luego de descargar el archivo "Proyecto_v1_2_.ipynb", debe ser subido a Google Colab.
+Primero, los archivos que se encuentran en este enlace de Google Drive "https://drive.google.com/drive/folders/1lNijLND6yPJwcRIqcrUCNut0JWKCvlXw?usp=share_link" deben ser almacenados en alguna carpeta de su preferencia. Luego de descargar el archivo "Proyecto_vFinal.ipynb", debe estar en la misma carpeta que los archivos anteriores.
 
-Al abrir el archivo en colab, en la sección "Paths", debe escribir el path de la carpeta que contiene los archivos test_annot.py, test_imgs.py, val_annot.py, val_imgs.py, train_annot.py, train_imgs.py. Por ejemplo:
-```
-dfs_path = '/content/drive/My Drive/Proyecto/Datos'
-```
-Teniendo esto listo, implemente el uso de GPU en su terminal de Google Colab. Ahora el archivo debería poder ejecutar el archivo .ipynb sin problemas.
+Ahora, abriendo este archivo .ipynb, debería poder correrlo siempre y cuando tenga las librerias necesarias instaladas. Cerciorece de esto para ejecutar el archivo en su totalidad correctamente.
 
 El archivo "data_description.txt" no es necesario para la ejecución del código, pero muestra una descripción del dataset utilizado.
